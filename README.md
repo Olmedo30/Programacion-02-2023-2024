@@ -1,5 +1,5 @@
 # Programacion-02-2023-2024
-Repositorio donde se subirá el contenido visto durante el curso en la unidad teórica 1.
+Repositorio donde se subirá el contenido visto durante el curso en la unidad teórica 2.
 
 <h2>Estructuras de control</h2>
 Consiste en escribir y depurar código, analizando y utilizando las estructuras de control del
